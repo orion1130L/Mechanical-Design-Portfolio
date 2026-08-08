@@ -3,7 +3,7 @@
 
 本仓库收录了我独立完成的机械系统设计项目。
 
-## 项目一：高精度平行连杆夹爪
+## 项目一：平行连杆夹爪
 
 ![夹爪渲染图](./01-Parallel-Gripper/images/render.png)
 
@@ -13,6 +13,11 @@
 
 [查看完整设计报告](./01-Parallel-Gripper/docs/机械平行夹爪说明书.pdf)
 [查看模型](./01-Parallel-Gripper/models/assembly.IGS) | 通用格式，所有CAD软件可打开 |
+## 项目二：滤筒壳体
+
+![滤筒壳体](./02-Filter-Housing/images/filter-housing.png)
+
+
 
 
 ## 关于我
