@@ -5,7 +5,7 @@
 
 ## 项目一：高精度平行连杆夹爪
 
-![夹爪渲染图](.01-Parallel-Gripper/images/render.png)
+![夹爪渲染图](./01-Parallel-Gripper/images/render.png)
 
 - **技术方案**：四杆联动机构 + NEMA17步进电机丝杠驱动
 - **设计成果**：行程50-80mm，额定夹持力32.6N，整机安全系数2.5
