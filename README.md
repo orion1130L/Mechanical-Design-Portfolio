@@ -12,8 +12,7 @@
 - **关键工作**：运动学优化、紧固件选型校核、静力学仿真验证
 
 [查看完整设计报告](./01-Parallel-Gripper/docs/机械平行夹爪说明书.pdf)
-[查看应力云图](./01-Parallel-Gripper/simulations/) | 指尖、滑块与连杆静力学仿真结果 |
-[查看STEP模型](./01-Parallel-Gripper/models/Parallel-Gripper.stp) | 通用格式，所有CAD软件可打开 |
+[查看STEP模型](./01-Parallel-Gripper/models/assembly.IGS) | 通用格式，所有CAD软件可打开 |
 
 
 ## 关于我
